@@ -1,0 +1,30 @@
+﻿  Game.cpp
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(65,11): warning C4244:  'initializing': conversion from 'T' to 'float', possible loss of data
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(65,11): warning C4244:         with
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(65,11): warning C4244:         [
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(65,11): warning C4244:             T=double
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(65,11): warning C4244:         ]
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(147,23): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(147,23): warning C4244:         with
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(147,23): warning C4244:         [
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(147,23): warning C4244:             T=float
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(147,23): warning C4244:         ]
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:         with
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:         [
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:             T=int
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:         ]
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:         and
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:         [
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:             T=float
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,61): warning C4244:         ]
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:         with
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:         [
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:             T=int
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:         ]
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:         and
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:         [
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:             T=float
+G:\AppliedPhysics\sfmlstarter\sfmlstarter\Game.cpp(175,44): warning C4244:         ]
+  sfmlstarter.vcxproj -> G:\AppliedPhysics\sfmlstarter\Debug\sfmlstarter.exe
